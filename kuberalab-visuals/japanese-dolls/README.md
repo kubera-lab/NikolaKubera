@@ -4,7 +4,7 @@ A complete content and production system for presenting a personal collection of
 
 ## Live page
 
-https://jobkubera-lab.github.io/NikolaKubera/japanese-dolls/
+https://kubera-lab.github.io/NikolaKubera/japanese-dolls/
 
 ## What this project contains
 
@@ -34,7 +34,7 @@ The uploaded photo is used as the exact visual reference, but it must not appear
 
 ## Related prompt library
 
-https://github.com/jobkubera-lab/kubera-ai-prompts/tree/main/japanese-dolls
+https://github.com/kubera-lab/kubera-ai-prompts/tree/main/japanese-dolls
 
 ## Media
 

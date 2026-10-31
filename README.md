@@ -1,11 +1,11 @@
 # KUBERALAB Visual Prototypes
 
-Creative and visual experimentation repository maintained by **jobkubera-lab**.
+Creative and visual experimentation repository maintained by **kubera-lab**.
 
 This repository is not the primary KUBERA engineering portfolio. The main technical work on AI agents, AI assurance, civic AI and evidence-led systems is maintained here:
 
-- [jobkubera-lab profile and KUBERA LAB](https://github.com/jobkubera-lab/jobkubera-lab)
-- [KUBERA AGENT OS](https://github.com/jobkubera-lab/jobkubera-lab/tree/main/kubera-lab/agent-os)
+- [kubera-lab profile and KUBERA LAB](https://github.com/kubera-lab/kubera-lab)
+- [KUBERA AGENT OS](https://github.com/kubera-lab/kubera-lab/tree/main/kubera-lab/agent-os)
 
 ## Current visual work
 
@@ -14,7 +14,7 @@ This repository is not the primary KUBERA engineering portfolio. The main techni
 A visual-production system for presenting an original Japanese doll collection through short-form video, prompt design and AI-assisted motion experiments.
 
 - [Source files](kuberalab-visuals/japanese-dolls)
-- [Prompt library](https://github.com/jobkubera-lab/kubera-ai-prompts/tree/main/japanese-dolls)
+- [Prompt library](https://github.com/kubera-lab/kubera-ai-prompts/tree/main/japanese-dolls)
 
 ## Scope
 
